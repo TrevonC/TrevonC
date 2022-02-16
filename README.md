@@ -1,8 +1,16 @@
 ## Hi there, I'm Trevon! 👋
 
-- 📍 Toronto, Canada
-- 🎓 Student at George Brown College
+```javascript
+class TrevonC {
+  constructor(name, home, school, gradYear) {
+    this.name = "Trevon Costa";
+    this.home = "Toronto, Canada";
+    this.school = "George Brown College";
+    this.gradYear = 2022;
+  }
+}
 
+```
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/TrevonC/TrevonC">
