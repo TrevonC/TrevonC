@@ -1,7 +1,10 @@
 ## Hi there, I'm Trevon! 👋
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TrevonC&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TrevonC)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/TrevonC/TrevonC">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=TrevonC&show_icons=true"/>
+  
+<a href="https://github.com/TrevonC/TrevonC">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrevonC)](https://github.com/anuraghazra/github-readme-stats"/>
 
 
 <!--
