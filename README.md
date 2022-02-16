@@ -4,9 +4,9 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=TrevonC&show_icons=true"/>
   
 <a href="https://github.com/TrevonC/TrevonC">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrevonC)](https://github.com/anuraghazra/github-readme-stats"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrevonC"/>
 
-
+  
 <!--
 Coming Soon..
 Projects..
