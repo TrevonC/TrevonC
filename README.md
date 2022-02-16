@@ -1,5 +1,5 @@
-## Hi there, I'm Trevon! 👋
-
+![alt text](https://github.com/TrevonC/TrevonC/blob/main/banner.jpg?raw=true)
+# 💻 Introduction
 ```javascript
 class TrevonC {
   constructor(name, home, school, gradYear) {
@@ -12,14 +12,16 @@ class TrevonC {
 
 ```
 
-## &#x1f4c8; GitHub Stats
+Currently a Student at George Brown College, working on final projects with classes in Full Stack Development, Machine Learning, Mobile Application Development, Intro. to Cyber Security and Capstone. *New currently*: Now using Swift for IOS Development and utilizing new tools such as XCode to create my projects and assignments.
+
+### &#x1f4c8; GitHub Stats
 <a href="https://github.com/TrevonC/TrevonC">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=TrevonC&include_all_commits=true&show_icons=true&line_height=27&count_private=true&title_color=3a59bf&bg_color=f5f5f5" alt="TrevonC's Github Stats"/>
   
 <a href="https://github.com/TrevonC/TrevonC">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrevonC&title_color=3a59bf&bg_color=f5f5f5" alt="TrevonC's Top Languages"/>
 
- ## 🔧 Technologies & Tools
+ ### 🔧 Technologies & Tools
   
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
