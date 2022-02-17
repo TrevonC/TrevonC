@@ -12,7 +12,7 @@ class TrevonC {
 
 ```
 
-Currently a Student at [George Brown College](https://www.georgebrown.ca/programs/computer-programming-and-analysis-program-t177)>, working on final projects with classes in Full Stack Development, Machine Learning, Mobile Application Development, Intro. to Cyber Security and Capstone. *New currently*: Now using Swift for IOS Development and utilizing new tools such as XCode to create my projects and assignments.
+Currently a Student at [George Brown College](https://www.georgebrown.ca/programs/computer-programming-and-analysis-program-t177), working on final projects with classes in Full Stack Development, Machine Learning, Mobile Application Development, Intro. to Cyber Security and Capstone. *New currently*: Now using Swift for IOS Development and utilizing new tools such as XCode to create my projects and assignments.
 
 ### &#x1f4c8; GitHub Stats
 <a href="https://github.com/TrevonC/TrevonC">
