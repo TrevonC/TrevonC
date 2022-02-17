@@ -19,7 +19,7 @@ Currently a Student at [George Brown College](https://www.georgebrown.ca/program
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=TrevonC&include_all_commits=true&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="TrevonC's Github Stats"/>
   
 <a href="https://github.com/TrevonC/TrevonC">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrevonC&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="TrevonC's Top Languages"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrevonC&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" alt="TrevonC's Top Languages"/>
 
  ### 🔧 Technologies & Tools
   
