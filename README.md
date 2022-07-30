@@ -1,4 +1,4 @@
-![alt text](https://github.com/TrevonC/TrevonC/blob/main/banner.jpg?raw=true)
+![](https://github.com/TrevonC/TrevonC/blob/main/banner.gif)
 # 💻 Introduction
 ```javascript
 class TrevonC {
