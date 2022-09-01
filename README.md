@@ -12,7 +12,7 @@ class TrevonC {
 
 ```
 
-Software Developer with 3 years of studying at [George Brown College](https://www.georgebrown.ca/programs/computer-programming-and-analysis-program-t177), currently working towards advancing my skills as a iOS Mobile Developer. Using Swift I'm now learning to apply advance programming methedologies to iOS Development and utilizing tools such as XCode to create my projects and complete personal goals.
+Software Developer with 3 years of studying at [George Brown College](https://www.georgebrown.ca/programs/computer-programming-and-analysis-program-t177), currently working towards advancing my skills as an iOS Mobile Developer. Using Swift I'm now learning to apply advance programming methedologies to iOS Development and utilizing tools such as XCode to create my projects and complete personal goals.
 
 ### &#x1f4c8; GitHub Stats
 <a href="https://github.com/TrevonC/TrevonC">
